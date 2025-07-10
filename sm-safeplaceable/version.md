@@ -1,2 +1,1 @@
-## v1.0.1
-+ Ox_Inventory Support
+## v1.0.0
